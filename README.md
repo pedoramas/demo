@@ -5,6 +5,6 @@ This is a simple readme file.
 
 new line added.
 just somthing going on for stash
-checking p4merge
+checking merge
 update in stage
 more update in working directory
